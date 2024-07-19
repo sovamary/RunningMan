@@ -8,11 +8,7 @@ public class playerControler : MonoBehaviour
     private float horizontal;
     private float vertical;
     private int rotationSpeed = 80;
-   // public bool gameOver;
-    void Start()
-    {
-        
-    }
+  
 
     // Update is called once per frame
     void Update()
